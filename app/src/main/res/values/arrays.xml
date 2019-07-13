@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="freregions">
+        <item>RG_PRC</item>
+        <item>RG_NA</item>
+        <item>RG_NONE</item>
+        <item>RG_KR</item>
+        <item>RG_EU</item>
+        <item>RG_EU2</item>
+        <item>RG_EU3</item>
+    </string-array>
+    <string-array name="read_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="regions">
+        <item>North America : 902~928MHz </item>
+        <item>European Union : 865.1~867.9MHz</item>
+        <item>Korea : 910~914MHz </item>
+        <item>India : 865~867MHz</item>
+        <item>Japan : B.916.8~920.8MHz</item>
+        <item>China : 920~925MHz </item>
+        <item>European Union 2 : 869~869.85MHz </item>
+        <item>European Union 3 : 865.6~867.6MHz</item>
+        <item>Korea 2 : 917~923.5MHz </item>
+        <item>China(840MHZ) : 840.125~844.875MHz </item>
+        <item>Australia : 920~926MHz</item>
+        <item>New Zealand : 922~927.5MHz</item>
+        <item>FCC : 917.4~927.2MHz </item>
+        <item>5MHZ FCC band : 917.5~922.5MHz</item>
+        <item>Open : 920~925MHz</item>
+    </string-array>
+
+    <string-array name="spilockbank">
+        <item >ACCESS PASSWORD</item>
+        <item >KILL PASSWORD</item>
+        <item >EPC</item>
+        <item >TID</item>
+        <item >USER</item>
+    </string-array>
+    <string-array name="spilocktype">
+        <item >UNLOCK</item>
+        <item >LOCK</item>
+        <item >PERMANENT LOCK</item>
+    </string-array>
+
+</resources>

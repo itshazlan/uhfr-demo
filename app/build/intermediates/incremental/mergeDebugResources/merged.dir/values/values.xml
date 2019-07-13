@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="freregions">
+        <item>RG_PRC</item>
+        <item>RG_NA</item>
+        <item>RG_NONE</item>
+        <item>RG_KR</item>
+        <item>RG_EU</item>
+        <item>RG_EU2</item>
+        <item>RG_EU3</item>
+    </string-array>
+    <string-array name="read_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="regions">
+        <item>North America : 902~928MHz </item>
+        <item>European Union : 865.1~867.9MHz</item>
+        <item>Korea : 910~914MHz </item>
+        <item>India : 865~867MHz</item>
+        <item>Japan : B.916.8~920.8MHz</item>
+        <item>China : 920~925MHz </item>
+        <item>European Union 2 : 869~869.85MHz </item>
+        <item>European Union 3 : 865.6~867.6MHz</item>
+        <item>Korea 2 : 917~923.5MHz </item>
+        <item>China(840MHZ) : 840.125~844.875MHz </item>
+        <item>Australia : 920~926MHz</item>
+        <item>New Zealand : 922~927.5MHz</item>
+        <item>FCC : 917.4~927.2MHz </item>
+        <item>5MHZ FCC band : 917.5~922.5MHz</item>
+        <item>Open : 920~925MHz</item>
+    </string-array>
+    <string-array name="spilockbank">
+        <item>ACCESS PASSWORD</item>
+        <item>KILL PASSWORD</item>
+        <item>EPC</item>
+        <item>TID</item>
+        <item>USER</item>
+    </string-array>
+    <string-array name="spilocktype">
+        <item>UNLOCK</item>
+        <item>LOCK</item>
+        <item>PERMANENT LOCK</item>
+    </string-array>
+    <color name="allbg">#EEEEEE</color>
+    <color name="bg">#9E9E9E</color>
+    <color name="blu">#03A9E4</color>
+    <color name="br">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="gre">#607D8B</color>
+    <color name="gre2">#4C9F50</color>
+    <color name="mycolor1">#996633</color>
+    <color name="wr">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="_more_tags">InventoryEPC</string>
+    <string name="_read_data_">\nRead Data:</string>
+    <string name="about_soft">About sotf </string>
+    <string name="access_password">Access password:</string>
+    <string name="action_about">About App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_uhf">About Uhf</string>
+    <string name="all_epc_count">Count:</string>
+    <string name="all_epc_sum">All read sum:</string>
+    <string name="app_name">UHFDemo-R</string>
+    <string name="are_you_sure_to_restart_">Are you sure to restart ?</string>
+    <string name="buzzer">Buzzer</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancle">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="clear_success_">Clear success!</string>
+    <string name="close">Close</string>
+    <string name="count">Count</string>
+    <string name="current_fre_band">Current frequency band is</string>
+    <string name="current_read_power">Current read power is </string>
+    <string name="current_version">Version name: </string>
+    <string name="current_write_power">Current write power is</string>
+    <string name="epc">EPC</string>
+    <string name="epc_">EPC:</string>
+    <string name="exit">Exit</string>
+    <string name="exiting">Exiting...</string>
+    <string name="fail">fail</string>
+    <string name="filter">Filter</string>
+    <string name="filtrate_data_">Filtrate Data:</string>
+    <string name="finish_date">Finish date: </string>
+    <string name="freq_area">Freq Area：</string>
+    <string name="freq_band">Frequency band >></string>
+    <string name="freqpoints_">FreqPoints:</string>
+    <string name="freqregion_">FreqRegion:</string>
+    <string name="frequency_points_select_">Frequency points select >></string>
+    <string name="get">Get</string>
+    <string name="get_">Get</string>
+    <string name="get_all_">Get(all)</string>
+    <string name="get_epc_fail_">Get EPC Fail!</string>
+    <string name="get_epc_success_">Get EPC Success!</string>
+    <string name="get_fail_">Get Fail!</string>
+    <string name="get_now_">Get(now)</string>
+    <string name="get_success_">Get Success:\n</string>
+    <string name="getepc">GetEPC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="id">ID</string>
+    <string name="init_rfid_fail_">Init Rfid Fail!</string>
+    <string name="init_rfid_success_">Init Rfid Success!</string>
+    <string name="inituhffail">Init uhf fail！</string>
+    <string name="inituhfsuccess">Init uhf success！</string>
+    <string name="intermission">Intermission</string>
+    <string name="inventory_epc">Inventory EPC</string>
+    <string name="inversion">Inversion</string>
+    <string name="kill">Kill</string>
+    <string name="kill_password">Kill password</string>
+    <string name="kill_tag">Kill tag</string>
+    <string name="length">Length(word):</string>
+    <string name="lock">Lock</string>
+    <string name="lock_action">Lock type:</string>
+    <string name="lock_membank">Lock membank:</string>
+    <string name="lock_tag">Lock tag</string>
+    <string name="membank">membank</string>
+    <string name="membank_read_write">Membank:</string>
+    <string name="more_operation">More operation</string>
+    <string name="ms">ms</string>
+    <string name="multi_mode">Multi mode</string>
+    <string name="number">Number:</string>
+    <string name="open">Open</string>
+    <string name="para_settings">Para Settings</string>
+    <string name="password">Password</string>
+    <string name="please_access_password">Please input 4 bytes access password</string>
+    <string name="please_get_epc_first_">Please get epc first!</string>
+    <string name="please_inventory_epc">Please inventory EPC</string>
+    <string name="please_press_again_exit">Press back key again, exit</string>
+    <string name="please_start_addr">Please input start address</string>
+    <string name="please_write_data">Please input write data</string>
+    <string name="please_write_data_double_byte">Please input double bytes write data</string>
+    <string name="please_write_data_type_error">The write data type is error</string>
+    <string name="quit_on_double_click_">Quit On Double-Click!</string>
+    <string name="read">read</string>
+    <string name="read_fail_">Read Fail!</string>
+    <string name="read_power">Read power:</string>
+    <string name="read_power_dbm_">Read Power(dbm):</string>
+    <string name="read_success_">Read Success!</string>
+    <string name="read_write_tag">Read Write Tag</string>
+    <string name="readdata">ReadData:</string>
+    <string name="readtime">ReadTime:</string>
+    <string name="restart">Restart</string>
+    <string name="restart_success_">Restart success!</string>
+    <string name="rssi">RSSI</string>
+    <string name="select_epc">Select epc:</string>
+    <string name="select_frequency_points_">Select Frequency points:</string>
+    <string name="set">Set</string>
+    <string name="set_fail_">Set fail!</string>
+    <string name="set_read_power_fail_">Set read power fail！</string>
+    <string name="set_read_power_success_now_power_">Set read power success！\nNow power：</string>
+    <string name="set_success_">Set success!</string>
+    <string name="set_write_power_fail_">Set  write power fail！</string>
+    <string name="set_write_power_success_now_power_">Set write power success！\nNow power：</string>
+    <string name="setintermissiontime">Set Intermission Time:</string>
+    <string name="setting_">Settings</string>
+    <string name="single_tag">ReadAndWrite</string>
+    <string name="singletag">SingleTag</string>
+    <string name="sleeptime">SleepTime:</string>
+    <string name="speed">Speed:</string>
+    <string name="start">Start</string>
+    <string name="start_addr">Start addr:</string>
+    <string name="start_inventory_epc">Start Intentory EPC</string>
+    <string name="stop">Stop</string>
+    <string name="stop_inventory_epc">Stop Intentory EPC</string>
+    <string name="stopping">Stopping</string>
+    <string name="success">success</string>
+    <string name="sure">Sure</string>
+    <string name="time">Time：</string>
+    <string name="times">Times:</string>
+    <string name="write">write</string>
+    <string name="write_data">Write data(word hex):</string>
+    <string name="write_data_fail_">Write Data Fail!</string>
+    <string name="write_data_success_">Write Data Success!</string>
+    <string name="write_power">Write power:</string>
+    <string name="write_power_dbm_">Write Power(dbm):</string>
+    <string name="writedata_">WriteData:</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MainRadioButtonStyle">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:drawablePadding">2dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#666666</item>
+    </style>
+</resources>

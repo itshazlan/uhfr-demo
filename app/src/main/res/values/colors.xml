@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gre">#607D8B</color>
+    <color name="blu">#03A9E4</color>
+    <color name="gre2">#4C9F50</color>
+    <color name="bg">#9E9E9E</color>
+    <color name="br">#000000</color>
+    <color name="wr">#FFFFFF</color>
+    <color name="mycolor1">#996633</color>
+    <color name="allbg">#EEEEEE</color>
+</resources>

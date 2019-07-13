@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_sensitivity">
+    <item>高</item>
+    <item>中</item>
+    <item>低</item>
+    <item>极低</item>
+    </string-array>
+    <string-array name="freregions">
+    <item>RG_中国</item>
+    <item>RG_美国</item>
+    <item>RG_无</item>
+    <item>RG_韩国</item>
+    <item>RG_欧洲</item>
+    <item>RG_欧洲2</item>
+    <item>RG_欧洲3</item>
+    </string-array>
+    <string-array name="spilockbank">
+    <item>访问密码</item>
+    <item>摧毁密码</item>
+    <item>EPC区</item>
+    <item>TID区</item>
+    <item>USER区</item>
+</string-array>
+    <string-array name="spilocktype">
+    <item>解锁定</item>
+    <item>暂时锁定</item>
+    <item>永久锁定</item>
+</string-array>
+    <string name="_more_tags">多标签盘点</string>
+    <string name="_read_data_">\n读数据:</string>
+    <string name="about_soft">关于软件 </string>
+    <string name="access_password">访问密码</string>
+    <string name="action_about">关于软件</string>
+    <string name="action_settings">设置</string>
+    <string name="action_uhf">UHF知识</string>
+    <string name="all_epc_count">盘存总次数:</string>
+    <string name="all_epc_sum">标签总数:</string>
+    <string name="app_name">UHFDemo-R</string>
+    <string name="are_you_sure_to_restart_">你确定要重启射频模块吗?</string>
+    <string name="buzzer">提示音</string>
+    <string name="cancel">取消</string>
+    <string name="cancle">取消</string>
+    <string name="clear">清空</string>
+    <string name="clear_success_">清空成功!</string>
+    <string name="close">关闭</string>
+    <string name="count">次数</string>
+    <string name="current_fre_band">当前频段为</string>
+    <string name="current_read_power">当前读功率为</string>
+    <string name="current_version">当前版本号: </string>
+    <string name="current_write_power">当前写功率为</string>
+    <string name="epc">EPC</string>
+    <string name="epc_">EPC:</string>
+    <string name="exit">退出</string>
+    <string name="exiting">正在退出...</string>
+    <string name="fail">失败</string>
+    <string name="filter">过滤</string>
+    <string name="filtrate_data_">过滤数据:</string>
+    <string name="finish_date">修改时间: </string>
+    <string name="freq_area">频率区域：</string>
+    <string name="freq_band">频段区域>></string>
+    <string name="freqpoints_">频点:</string>
+    <string name="freqregion_">频率区域:</string>
+    <string name="frequency_points_select_">频点选择>></string>
+    <string name="get">获取</string>
+    <string name="get_">获取</string>
+    <string name="get_all_">获取所有</string>
+    <string name="get_epc_fail_">获取EPC 失败!</string>
+    <string name="get_epc_success_">获取 EPC 成功!</string>
+    <string name="get_fail_">获取失败!</string>
+    <string name="get_now_">获取当前</string>
+    <string name="get_success_">获取成功:\n</string>
+    <string name="getepc">获取EPC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="id">编号</string>
+    <string name="init_rfid_fail_">初始化失败!</string>
+    <string name="init_rfid_success_">初始化成功!</string>
+    <string name="inituhffail">初始化失败！</string>
+    <string name="inituhfsuccess">初始化成功！</string>
+    <string name="intermission">间歇读取</string>
+    <string name="inventory_epc">盘存EPC</string>
+    <string name="inversion">反转</string>
+    <string name="kill">销毁</string>
+    <string name="kill_password">销毁密码</string>
+    <string name="kill_tag">销毁标签</string>
+    <string name="length">长度(word):</string>
+    <string name="lock">锁定</string>
+    <string name="lock_action">锁定操作:</string>
+    <string name="lock_membank">锁定区域</string>
+    <string name="lock_tag">锁定标签</string>
+    <string name="membank">内存区域</string>
+    <string name="membank_read_write">读写数据区</string>
+    <string name="more_operation">更多操作</string>
+    <string name="ms">毫秒</string>
+    <string name="multi_mode">多标签模式</string>
+    <string name="number">数量:</string>
+    <string name="open">打开</string>
+    <string name="para_settings">参数设置</string>
+    <string name="password">密码</string>
+    <string name="please_access_password">请输入4字节访问密码</string>
+    <string name="please_get_epc_first_">请先获取标签EPC!</string>
+    <string name="please_inventory_epc">请先盘存标签EPC，再进行读写操作</string>
+    <string name="please_length">请输入长度</string>
+    <string name="please_press_again_exit">再按一次返回键退出</string>
+    <string name="please_start_addr">请输入起始地址</string>
+    <string name="please_write_data">请写入数据</string>
+    <string name="please_write_data_double_byte">请输入双字节单位的数据</string>
+    <string name="please_write_data_type_error">写入数据的格式不正确</string>
+    <string name="quit_on_double_click_">双击退出!</string>
+    <string name="read">读</string>
+    <string name="read_fail_">读数据失败!</string>
+    <string name="read_power">读功率:</string>
+    <string name="read_power_dbm_">读功率(dbm):</string>
+    <string name="read_success_">读数据成功!</string>
+    <string name="read_write_tag">读写操作</string>
+    <string name="readdata">读数据:</string>
+    <string name="readtime">读取时间:</string>
+    <string name="restart">重启</string>
+    <string name="restart_success_">重启成功!</string>
+    <string name="rssi">信号</string>
+    <string name="select_epc">选择EPC:</string>
+    <string name="select_frequency_points_">选择频点:</string>
+    <string name="set">设置</string>
+    <string name="set_fail_">设置失败!</string>
+    <string name="set_read_power_fail_">设置功率失败！</string>
+    <string name="set_read_power_success_now_power_">设置读功率成功！\n当前功率：</string>
+    <string name="set_success_">设置成功!</string>
+    <string name="set_write_power_fail_">设置写功率失败！</string>
+    <string name="set_write_power_success_now_power_">设置写功率成功！\n当前功率：</string>
+    <string name="setintermissiontime">设置间断读取时间:</string>
+    <string name="setting_">设置</string>
+    <string name="single_tag">单标签读写</string>
+    <string name="singletag">单标签</string>
+    <string name="sleeptime">休眠时间:</string>
+    <string name="speed">速率:</string>
+    <string name="start">开始</string>
+    <string name="start_addr">起始地址:</string>
+    <string name="start_inventory_epc">开始盘存EPC</string>
+    <string name="stop">停止</string>
+    <string name="stop_inventory_epc">停止盘存EPC</string>
+    <string name="stopping">正在停止..</string>
+    <string name="success">成功</string>
+    <string name="sure">确定</string>
+    <string name="time">时间：</string>
+    <string name="times">次数:</string>
+    <string name="write">写</string>
+    <string name="write_data">写数据(word hex):</string>
+    <string name="write_data_fail_">写数据失败!</string>
+    <string name="write_data_success_">写数据成功!</string>
+    <string name="write_power">写功率:</string>
+    <string name="write_power_dbm_">写功率(dbm):</string>
+    <string name="writedata_">写数据:</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<string-array name="spilockbank">
+    <item >访问密码</item>
+    <item >摧毁密码</item>
+    <item >EPC区</item>
+    <item >TID区</item>
+    <item >USER区</item>
+</string-array>
+
+<string-array name="spilocktype">
+    <item >解锁定</item>
+    <item >暂时锁定</item>
+    <item >永久锁定</item>
+</string-array>
+
+<string-array name="arr_sensitivity">
+    <item >高</item>
+    <item >中</item>
+    <item >低</item>
+    <item >极低</item>
+    </string-array>
+<string-array name="freregions">
+    <item>RG_中国</item>
+    <item>RG_美国</item>
+    <item>RG_无</item>
+    <item>RG_韩国</item>
+    <item>RG_欧洲</item>
+    <item>RG_欧洲2</item>
+    <item>RG_欧洲3</item>
+    </string-array>
+
+</resources>

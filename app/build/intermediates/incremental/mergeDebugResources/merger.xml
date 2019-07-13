@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="C:\Users\Administrator\.android\build-cache\dcee81e2d10477d253692c183ae18975f6d2bdca\output\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\Android\StudioProjects\UHF_R\app\src\main\res"/><source path="D:\Android\StudioProjects\UHF_R\app\build\generated\res\rs\debug"/><source path="D:\Android\StudioProjects\UHF_R\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\Android\StudioProjects\UHF_R\app\src\debug\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\Administrator\.android\build-cache\dcee81e2d10477d253692c183ae18975f6d2bdca\output\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Android\StudioProjects\UHF_R\app\src\main\res"><file name="ic_launcher" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="uhf_r" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\drawable-hdpi\uhf_r.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="fragment_inventory" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\layout\fragment_inventory.xml" qualifiers="" type="layout"/><file name="fragment_kill" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\layout\fragment_kill.xml" qualifiers="" type="layout"/><file name="fragment_lock" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\layout\fragment_lock.xml" qualifiers="" type="layout"/><file name="fragment_read_write" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\layout\fragment_read_write.xml" qualifiers="" type="layout"/><file name="fragment_settings" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\layout\fragment_settings.xml" qualifiers="" type="layout"/><file name="item_epc" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\layout\item_epc.xml" qualifiers="" type="layout"/><file name="main" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="beep" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\raw\beep.wav" qualifiers="" type="raw"/><file name="beep2" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\raw\beep2.wav" qualifiers="" type="raw"/><file name="beep51" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\raw\beep51.wav" qualifiers="" type="raw"/><file name="msg" path="D:\Android\StudioProjects\UHF_R\app\src\main\res\raw\msg.mp3" qualifiers="" type="raw"/><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="regions">
+        <item>North America : 902~928MHz </item>
+        <item>European Union : 865.1~867.9MHz</item>
+        <item>Korea : 910~914MHz </item>
+        <item>India : 865~867MHz</item>
+        <item>Japan : B.916.8~920.8MHz</item>
+        <item>China : 920~925MHz </item>
+        <item>European Union 2 : 869~869.85MHz </item>
+        <item>European Union 3 : 865.6~867.6MHz</item>
+        <item>Korea 2 : 917~923.5MHz </item>
+        <item>China(840MHZ) : 840.125~844.875MHz </item>
+        <item>Australia : 920~926MHz</item>
+        <item>New Zealand : 922~927.5MHz</item>
+        <item>FCC : 917.4~927.2MHz </item>
+        <item>5MHZ FCC band : 917.5~922.5MHz</item>
+        <item>Open : 920~925MHz</item>
+    </string-array><string-array name="spilockbank">
+        <item>ACCESS PASSWORD</item>
+        <item>KILL PASSWORD</item>
+        <item>EPC</item>
+        <item>TID</item>
+        <item>USER</item>
+    </string-array><string-array name="spilocktype">
+        <item>UNLOCK</item>
+        <item>LOCK</item>
+        <item>PERMANENT LOCK</item>
+    </string-array><string-array name="read_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array><string-array name="freregions">
+        <item>RG_PRC</item>
+        <item>RG_NA</item>
+        <item>RG_NONE</item>
+        <item>RG_KR</item>
+        <item>RG_EU</item>
+        <item>RG_EU2</item>
+        <item>RG_EU3</item>
+    </string-array></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values\colors.xml" qualifiers=""><color name="gre2">#4C9F50</color><color name="wr">#FFFFFF</color><color name="mycolor1">#996633</color><color name="allbg">#EEEEEE</color><color name="bg">#9E9E9E</color><color name="br">#000000</color><color name="colorPrimaryDark">#303F9F</color><color name="colorPrimary">#3F51B5</color><color name="colorAccent">#FF4081</color><color name="blu">#03A9E4</color><color name="gre">#607D8B</color></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values\strings.xml" qualifiers=""><string name="length">Length(word):</string><string name="buzzer">Buzzer</string><string name="sure">Sure</string><string name="success">success</string><string name="close">Close</string><string name="freqpoints_">FreqPoints:</string><string name="please_inventory_epc">Please inventory EPC</string><string name="write_data_success_">Write Data Success!</string><string name="exit">Exit</string><string name="please_write_data_type_error">The write data type is error</string><string name="fail">fail</string><string name="get_all_">Get(all)</string><string name="stop">Stop</string><string name="init_rfid_fail_">Init Rfid Fail!</string><string name="_read_data_">\nRead Data:</string><string name="cancle">Cancel</string><string name="more_operation">More operation</string><string name="writedata_">WriteData:</string><string name="write_power">Write power:</string><string name="cancel">Cancel</string><string name="_more_tags">InventoryEPC</string><string name="write_data">Write data(word hex):</string><string name="epc">EPC</string><string name="are_you_sure_to_restart_">Are you sure to restart ?</string><string name="get_epc_success_">Get EPC Success!</string><string name="sleeptime">SleepTime:</string><string name="current_version">Version name: </string><string name="please_press_again_exit">Press back key again, exit</string><string name="select_epc">Select epc:</string><string name="lock">Lock</string><string name="about_soft">About sotf </string><string name="set">Set</string><string name="get_">Get</string><string name="select_frequency_points_">Select Frequency points:</string><string name="para_settings">Para Settings</string><string name="read_power_dbm_">Read Power(dbm):</string><string name="set_write_power_success_now_power_">Set write power success！\nNow power：</string><string name="lock_action">Lock type:</string><string name="lock_membank">Lock membank:</string><string name="action_uhf">About Uhf</string><string name="all_epc_count">Count:</string><string name="stopping">Stopping</string><string name="time">Time：</string><string name="setintermissiontime">Set Intermission Time:</string><string name="hello_world">Hello world!</string><string name="set_success_">Set success!</string><string name="read_fail_">Read Fail!</string><string name="start_addr">Start addr:</string><string name="app_name">UHFDemo-R</string><string name="inventory_epc">Inventory EPC</string><string name="setting_">Settings</string><string name="set_read_power_fail_">Set read power fail！</string><string name="please_start_addr">Please input start address</string><string name="stop_inventory_epc">Stop Intentory EPC</string><string name="id">ID</string><string name="access_password">Access password:</string><string name="set_fail_">Set fail!</string><string name="intermission">Intermission</string><string name="get">Get</string><string name="membank">membank</string><string name="action_about">About App</string><string name="inituhfsuccess">Init uhf success！</string><string name="freqregion_">FreqRegion:</string><string name="read">read</string><string name="set_write_power_fail_">Set  write power fail！</string><string name="inversion">Inversion</string><string name="readdata">ReadData:</string><string name="read_success_">Read Success!</string><string name="freq_area">Freq Area：</string><string name="current_fre_band">Current frequency band is</string><string name="please_get_epc_first_">Please get epc first!</string><string name="filter">Filter</string><string name="times">Times:</string><string name="start_inventory_epc">Start Intentory EPC</string><string name="speed">Speed:</string><string name="read_power">Read power:</string><string name="clear_success_">Clear success!</string><string name="readtime">ReadTime:</string><string name="get_now_">Get(now)</string><string name="current_read_power">Current read power is </string><string name="get_epc_fail_">Get EPC Fail!</string><string name="frequency_points_select_">Frequency points select >></string><string name="please_write_data">Please input write data</string><string name="write_power_dbm_">Write Power(dbm):</string><string name="set_read_power_success_now_power_">Set read power success！\nNow power：</string><string name="single_tag">ReadAndWrite</string><string name="start">Start</string><string name="all_epc_sum">All read sum:</string><string name="init_rfid_success_">Init Rfid Success!</string><string name="get_fail_">Get Fail!</string><string name="please_access_password">Please input 4 bytes access password</string><string name="finish_date">Finish date: </string><string name="lock_tag">Lock tag</string><string name="clear">Clear</string><string name="rssi">RSSI</string><string name="get_success_">Get Success:\n</string><string name="write_data_fail_">Write Data Fail!</string><string name="inituhffail">Init uhf fail！</string><string name="epc_">EPC:</string><string name="read_write_tag">Read Write Tag</string><string name="please_write_data_double_byte">Please input double bytes write data</string><string name="kill">Kill</string><string name="restart">Restart</string><string name="ms">ms</string><string name="membank_read_write">Membank:</string><string name="open">Open</string><string name="quit_on_double_click_">Quit On Double-Click!</string><string name="singletag">SingleTag</string><string name="getepc">GetEPC</string><string name="kill_password">Kill password</string><string name="count">Count</string><string name="current_write_power">Current write power is</string><string name="action_settings">Settings</string><string name="password">Password</string><string name="multi_mode">Multi mode</string><string name="restart_success_">Restart success!</string><string name="kill_tag">Kill tag</string><string name="write">write</string><string name="filtrate_data_">Filtrate Data:</string><string name="exiting">Exiting...</string><string name="number">Number:</string><string name="freq_band">Frequency band >></string></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values\styles.xml" qualifiers=""><style name="MainRadioButtonStyle">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:drawablePadding">2dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#666666</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values-zh-rCN\arrays.xml" qualifiers="zh-rCN"><string-array name="freregions">
+    <item>RG_中国</item>
+    <item>RG_美国</item>
+    <item>RG_无</item>
+    <item>RG_韩国</item>
+    <item>RG_欧洲</item>
+    <item>RG_欧洲2</item>
+    <item>RG_欧洲3</item>
+    </string-array><string-array name="spilocktype">
+    <item>解锁定</item>
+    <item>暂时锁定</item>
+    <item>永久锁定</item>
+</string-array><string-array name="arr_sensitivity">
+    <item>高</item>
+    <item>中</item>
+    <item>低</item>
+    <item>极低</item>
+    </string-array><string-array name="spilockbank">
+    <item>访问密码</item>
+    <item>摧毁密码</item>
+    <item>EPC区</item>
+    <item>TID区</item>
+    <item>USER区</item>
+</string-array></file><file path="D:\Android\StudioProjects\UHF_R\app\src\main\res\values-zh-rCN\strings.xml" qualifiers="zh-rCN"><string name="multi_mode">多标签模式</string><string name="read_power_dbm_">读功率(dbm):</string><string name="current_read_power">当前读功率为</string><string name="times">次数:</string><string name="membank">内存区域</string><string name="select_frequency_points_">选择频点:</string><string name="inituhfsuccess">初始化成功！</string><string name="get_epc_fail_">获取EPC 失败!</string><string name="set_write_power_fail_">设置写功率失败！</string><string name="start_inventory_epc">开始盘存EPC</string><string name="lock_tag">锁定标签</string><string name="action_about">关于软件</string><string name="set_fail_">设置失败!</string><string name="setting_">设置</string><string name="speed">速率:</string><string name="please_start_addr">请输入起始地址</string><string name="finish_date">修改时间: </string><string name="quit_on_double_click_">双击退出!</string><string name="freq_band">频段区域>></string><string name="kill">销毁</string><string name="init_rfid_success_">初始化成功!</string><string name="inituhffail">初始化失败！</string><string name="inversion">反转</string><string name="rssi">信号</string><string name="please_write_data_type_error">写入数据的格式不正确</string><string name="all_epc_count">盘存总次数:</string><string name="more_operation">更多操作</string><string name="start_addr">起始地址:</string><string name="about_soft">关于软件 </string><string name="restart_success_">重启成功!</string><string name="current_write_power">当前写功率为</string><string name="open">打开</string><string name="single_tag">单标签读写</string><string name="read_power">读功率:</string><string name="epc_">EPC:</string><string name="clear_success_">清空成功!</string><string name="singletag">单标签</string><string name="writedata_">写数据:</string><string name="get_success_">获取成功:\n</string><string name="please_write_data_double_byte">请输入双字节单位的数据</string><string name="lock">锁定</string><string name="buzzer">提示音</string><string name="please_access_password">请输入4字节访问密码</string><string name="number">数量:</string><string name="init_rfid_fail_">初始化失败!</string><string name="lock_membank">锁定区域</string><string name="please_get_epc_first_">请先获取标签EPC!</string><string name="inventory_epc">盘存EPC</string><string name="getepc">获取EPC</string><string name="exit">退出</string><string name="intermission">间歇读取</string><string name="fail">失败</string><string name="write_data_fail_">写数据失败!</string><string name="para_settings">参数设置</string><string name="exiting">正在退出...</string><string name="sure">确定</string><string name="id">编号</string><string name="success">成功</string><string name="get_all_">获取所有</string><string name="select_epc">选择EPC:</string><string name="filter">过滤</string><string name="set_read_power_fail_">设置功率失败！</string><string name="please_inventory_epc">请先盘存标签EPC，再进行读写操作</string><string name="setintermissiontime">设置间断读取时间:</string><string name="_more_tags">多标签盘点</string><string name="write_data">写数据(word hex):</string><string name="stop">停止</string><string name="are_you_sure_to_restart_">你确定要重启射频模块吗?</string><string name="set_success_">设置成功!</string><string name="write_power">写功率:</string><string name="membank_read_write">读写数据区</string><string name="_read_data_">\n读数据:</string><string name="freqpoints_">频点:</string><string name="read_write_tag">读写操作</string><string name="restart">重启</string><string name="close">关闭</string><string name="current_version">当前版本号: </string><string name="lock_action">锁定操作:</string><string name="readtime">读取时间:</string><string name="write">写</string><string name="access_password">访问密码</string><string name="epc">EPC</string><string name="password">密码</string><string name="stopping">正在停止..</string><string name="count">次数</string><string name="time">时间：</string><string name="frequency_points_select_">频点选择>></string><string name="write_power_dbm_">写功率(dbm):</string><string name="current_fre_band">当前频段为</string><string name="kill_tag">销毁标签</string><string name="cancle">取消</string><string name="filtrate_data_">过滤数据:</string><string name="get_">获取</string><string name="all_epc_sum">标签总数:</string><string name="length">长度(word):</string><string name="set_write_power_success_now_power_">设置写功率成功！\n当前功率：</string><string name="stop_inventory_epc">停止盘存EPC</string><string name="read_fail_">读数据失败!</string><string name="freqregion_">频率区域:</string><string name="action_uhf">UHF知识</string><string name="please_length">请输入长度</string><string name="hello_world">Hello world!</string><string name="get_epc_success_">获取 EPC 成功!</string><string name="readdata">读数据:</string><string name="write_data_success_">写数据成功!</string><string name="sleeptime">休眠时间:</string><string name="set">设置</string><string name="get_fail_">获取失败!</string><string name="action_settings">设置</string><string name="get">获取</string><string name="cancel">取消</string><string name="app_name">UHFDemo-R</string><string name="get_now_">获取当前</string><string name="please_write_data">请写入数据</string><string name="set_read_power_success_now_power_">设置读功率成功！\n当前功率：</string><string name="read">读</string><string name="please_press_again_exit">再按一次返回键退出</string><string name="clear">清空</string><string name="kill_password">销毁密码</string><string name="ms">毫秒</string><string name="read_success_">读数据成功!</string><string name="freq_area">频率区域：</string><string name="start">开始</string></file></source><source path="D:\Android\StudioProjects\UHF_R\app\build\generated\res\rs\debug"/><source path="D:\Android\StudioProjects\UHF_R\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\Android\StudioProjects\UHF_R\app\src\debug\res"/></dataSet><mergedItems/></merger>

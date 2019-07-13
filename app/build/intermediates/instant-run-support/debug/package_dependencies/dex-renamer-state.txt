@@ -1,0 +1,13 @@
+#Thu Nov 02 11:00:21 CST 2017
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes4.dex
+renamed.0=classes3.dex
+base.3=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_946be8b4dc47ae06d76a1fbe1678b1935435f711
+base.2=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_40292671e7d6c5cc40784b693c7541719c22fade
+base.1=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\uhf_r_v1.0_d670dbaa3fcb9cf2acde5716d1fe07544a1d432a
+base.0=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_0cf3d10c35e3a85c12847a4ae04cc53252341eed
+file.3=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_946be8b4dc47ae06d76a1fbe1678b1935435f711\\classes.dex
+file.2=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_40292671e7d6c5cc40784b693c7541719c22fade\\classes.dex
+file.1=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\uhf_r_v1.0_d670dbaa3fcb9cf2acde5716d1fe07544a1d432a\\classes.dex
+file.0=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_0cf3d10c35e3a85c12847a4ae04cc53252341eed\\classes.dex

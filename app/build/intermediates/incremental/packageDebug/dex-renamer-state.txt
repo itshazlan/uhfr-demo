@@ -1,0 +1,7 @@
+#Thu Nov 02 11:00:22 CST 2017
+base.0=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_723c6ecc877507e463f73bd1a070c4ae17749a81
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14bb07eccc491406ada99722966d13f214dc5a53\\classes.dex
+base.1=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14bb07eccc491406ada99722966d13f214dc5a53
+file.0=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_723c6ecc877507e463f73bd1a070c4ae17749a81\\classes.dex

@@ -1,0 +1,4 @@
+#Thu Nov 02 11:00:22 CST 2017
+base.0=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=D\:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

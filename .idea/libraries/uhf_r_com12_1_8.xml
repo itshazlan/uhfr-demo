@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uhf_r_com12_1.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/uhf_r_com12_1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

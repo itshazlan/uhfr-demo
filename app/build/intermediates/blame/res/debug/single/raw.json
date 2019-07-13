@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep2.wav",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\raw\\beep2.wav"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\raw\\msg.mp3",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\raw\\msg.mp3"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep51.wav",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\raw\\beep51.wav"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.wav",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\raw\\beep.wav"
+    }
+]

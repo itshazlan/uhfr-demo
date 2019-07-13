@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_lock.xml",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\layout\\fragment_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_inventory.xml",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\layout\\fragment_inventory.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_epc.xml",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\layout\\item_epc.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_read_write.xml",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\layout\\fragment_read_write.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\UHF_R\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_kill.xml",
+        "source": "D:\\Android\\StudioProjects\\UHF_R\\app\\src\\main\\res\\layout\\fragment_kill.xml"
+    }
+]
